@@ -8,4 +8,4 @@ Thats it.
 
 # How to use
 
-just do ```hello.py -h```
+just do ```hello -h```
