@@ -24,3 +24,10 @@ Heres how to install MCLI
 just do ```hello -h```
 
 ![Image1](Image1.png)
+
+# Future updates
+
+Here is where I put possible future updates!
+
+A installer for easy use.
+More commands.
