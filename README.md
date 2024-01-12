@@ -30,4 +30,5 @@ just do ```hello -h```
 Here is where I put possible future updates!
 
 A installer for easy use.
+
 More commands.
